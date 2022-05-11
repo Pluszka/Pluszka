@@ -8,6 +8,10 @@
 
 - 📫 How to reach me **karolina.julia.koza@gmail.com**
 
+- 🌱 I’m currently learning REST, SQL
+
+- ⚡ I'm also into painting, wordbulding, molecular biology
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karolina-koza-007b92234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karolina-koza-007b92234" height="30" width="40" /></a>
@@ -18,6 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pluszka&show_icons=true&locale=en&layout=compact" alt="pluszka" /></p>
 <br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pluszka&show_icons=true&locale=en" alt="pluszka" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pluszka&" alt="pluszka" /></p>
