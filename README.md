@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hi%20👋,%20I'm%20Karolina%20Koza%20&fontSize=50&animation=fadeIn&fontAlignY=30&desc=A%20junior%20python%20developer%20from%20Poland&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8&height=400&section=header&text=Hi%20👋,%20I'm%20Karolina%20Koza%20&fontSize=50&animation=fadeIn&fontAlignY=30&desc=A%20junior%20developer%20from%20Poland&descAlignY=50)
+
+
+![body](https://capsule-render.vercel.app/api?type=soft&color=67958F&height=90&section=header&text=About%20me%20&fontSize=30&fontAlign=15)
 
 
 - 👨‍💻 My profesional website [[link soon]]([link soon])
@@ -19,4 +22,4 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pluszka&" alt="pluszka" /></p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=%20&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8&height=200&section=footer&text=%20&fontSize=90)
