@@ -2,7 +2,7 @@
 
  <h2>🍰 About me</h2>
 
-- 👨‍💻 My profesional website [[link soon]]([link soon])
+- 👨‍💻 My profesional website https://karolina-koza.herokuapp.com
 
 - 📫 How to reach me **karolina.julia.koza@gmail.com**
 
