@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **karolina.julia.koza@gmail.com**
 
-- 🌱 I’m currently learning REST, SQL
+- 🌱 I’m currently learning REST, SQL, Jupyter, Docker
 
 - ⚡ I'm also into painting, wordbulding, molecular biology
 
