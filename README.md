@@ -41,8 +41,6 @@
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="JUnit" width="40" height="40"/> </a>
 <a href="https://site.mockito.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png" alt="Mockito" width="40" height="40"/> </a>
 <a href="https://projectlombok.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" alt="Lombok" width="40" height="40"/> </a>
-<a href="https://hibernate.org" target="_blank" rel="noreferrer"> <img src="" alt="Hibernate" width="40" height="40"/> </a>
-
 
 
 </p>
