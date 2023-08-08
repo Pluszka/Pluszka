@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8&height=400&section=header&text=Hi%20👋,%20I'm%20Karolina%20Koza%20&fontSize=50&animation=fadeIn&fontAlignY=30&desc=A%20junior%20developer%20from%20Poland&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8&height=400&section=header&text=Hi%20👋,%20I'm%20Karolina%20Koza%20&fontSize=50&animation=fadeIn&fontAlignY=30&desc=A%20junior%20software%20developer%20from%20Poland&descAlignY=50)
 
  <h2>🍰 About me</h2>
 
